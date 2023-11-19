@@ -1,0 +1,10 @@
+1.set args para1, para2
+2.break 10, break func_name
+3. next/n
+4. step/s
+5. continue
+6. print var; print1+2
+7. display p;
+    dispay i
+8. info locals
+9. quit/q
